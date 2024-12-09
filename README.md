@@ -4,7 +4,7 @@ Terefa 4 - Pilar
 
 ## Integrantes
 
-- Pedro de Almeida Couto Santps
+- Pedro de Almeida Couto Santos
 ## Professor
 
 - Will Machado
